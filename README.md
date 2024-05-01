@@ -12,3 +12,5 @@ Or you can change the seed:
 ![image](https://github.com/Halbert00/2.5D-proj3/assets/101485185/30915ff0-0d16-46d1-a51d-b86228cda7f8)
 ![image](https://github.com/Halbert00/2.5D-proj3/assets/101485185/bf639b98-598f-4797-a69f-b22cda3e3a57)
 ![image](https://github.com/Halbert00/2.5D-proj3/assets/101485185/563594b4-486c-4938-8c89-6a6f8dc10f7d)
+
+The codes are from me (Halbert00) and @ackley007, I appreciate his excellent work in proj3 with me.
