@@ -1,4 +1,4 @@
-# This is the referred website from https://github.com/Berkeley-CS61B-Student/sp24-proj3-g144/blob/main/README.md\
+# This is the referred website from https://github.com/Berkeley-CS61B-Student/sp24-proj3-g144/blob/main/README.md
 Intended to show some more pictures and provide some detailed code.
 
 Here's the code part for the 2.5D feature, we implemented some render functions to print the 2.5D world.\
